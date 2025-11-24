@@ -1,5 +1,6 @@
 ## Hi there 👋
 I'm a new guy and i want to improve myself more and more
+first i must learn Core JS for 1 week (24/11/2025)
 <!--
 **LoxaaaT/LoxaaaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
