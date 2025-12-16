@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm a new guy and i want to improve myself more and more
-first i must learn Core JS for 1 week (24/11/2025)
+Update learning about react (16/12/2025)
+ - it's fun and it's easy than i expected at first (maybe it just a begining of learning -__- ) and i'm exciting about component work, now i know why people recommend to use framework
+ - useState it's call react hook it so confuse me at first hahaha but it's so useful i must to learn more of this
 <!--
 **LoxaaaT/LoxaaaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
